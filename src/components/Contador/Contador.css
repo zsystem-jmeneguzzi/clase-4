@@ -1,0 +1,14 @@
+.Contador-container { 
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    color: #ffffff;
+    height: 200px;
+}
+
+.Buttons-container { 
+    display: flex;
+}

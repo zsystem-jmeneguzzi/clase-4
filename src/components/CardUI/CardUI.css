@@ -1,0 +1,9 @@
+.Cards {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+  }
+  
+  .Usuarios-container {
+    margin: 40px;
+  }
